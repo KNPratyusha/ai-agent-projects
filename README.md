@@ -1,6 +1,6 @@
 AI Agent Projects
 
-Built during an AI engineering sprint.
+
 
 Projects
 
